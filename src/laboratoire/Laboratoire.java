@@ -21,4 +21,7 @@ public class Laboratoire {
         // TODO code application logic here
     }
     
+    public void test1() {
+        ;
+    }
 }
