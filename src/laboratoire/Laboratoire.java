@@ -29,7 +29,5 @@ public class Laboratoire {
         ;
     }
     
-     public void test3() {
-        ;
-    }     
+     
 }
